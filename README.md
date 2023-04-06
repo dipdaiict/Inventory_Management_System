@@ -1,7 +1,9 @@
 # Inventory Management System:
 
 Team Members: Dip Patel & Hardik Balas
+
 Tools: Jupyter Notebook (Coding) & PostgreSQL (Database Management)
+
 Language: Pyhton
 
 Inventory Management System is a hands-on project developed by Dip Patel and Hardik Balas as part of a classroom learning experience. The objective of the project was to implement the concepts learned in class into a practical project.
